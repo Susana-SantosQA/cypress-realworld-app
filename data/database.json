@@ -76,15 +76,70 @@
       "modifiedAt": "2024-03-07T00:07:36.510Z"
     },
     {
-      "id": "8rVvKfPcr",
-      "uuid": "3eb88d7c-679e-4a2d-8224-8fcc602c2d5d",
+      "id": "_nlw7H008",
+      "uuid": "cad41370-c3b0-4e55-93aa-aa205bef507f",
       "firstName": "Carolina",
       "lastName": "Sampaio",
       "username": "Carolina",
-      "password": "$2a$10$5J1SXgLikjFvJ2SjD0LDo.vnX5A8iCIAzplJIY6TfT5jidPD/I7ua",
+      "password": "$2a$10$b/xmrgYfJJEpB81hwBnCIueVNa2f7t2MCMjrEItrDLpKv/8JpFHVy",
       "balance": 0,
-      "createdAt": "2025-07-30T19:15:38.642Z",
-      "modifiedAt": "2025-07-30T19:15:38.642Z"
+      "createdAt": "2025-08-16T00:13:37.991Z",
+      "modifiedAt": "2025-08-16T00:13:37.991Z"
+    },
+    {
+      "id": "K1G6VVJJ9",
+      "uuid": "6550e59d-d663-457f-a7a8-b420901530d2",
+      "firstName": "Carolina",
+      "lastName": "Sampaio",
+      "username": "Carolina",
+      "password": "$2a$10$QNLdPAVnJUWKtGp7dP0io.uUIP8RyWBETkiKgZemRrQIo3d.6pDu2",
+      "balance": 0,
+      "createdAt": "2025-08-16T00:13:46.525Z",
+      "modifiedAt": "2025-08-16T00:13:46.525Z"
+    },
+    {
+      "id": "3uTMZh7dH",
+      "uuid": "adfa49cb-45a2-45df-a4ff-3c86d45fc1a5",
+      "firstName": "Carolina",
+      "lastName": "Sampaio",
+      "username": "Carolina",
+      "password": "$2a$10$I2iJ6/y.PkQe1or13Iakpe329SE65ipqsvTqm7SMycHeoxj78XgCy",
+      "balance": 0,
+      "createdAt": "2025-08-16T00:19:37.868Z",
+      "modifiedAt": "2025-08-16T00:19:37.868Z"
+    },
+    {
+      "id": "-HanyMy3A",
+      "uuid": "7609411c-d773-4455-afba-4c205e2d2252",
+      "firstName": "Carolina",
+      "lastName": "Sampaio",
+      "username": "Carolina",
+      "password": "$2a$10$vB2IaOKpu0oamrpWYqme0eRB76a.8.26PnjTP6XOQd.JhtOaIOV3S",
+      "balance": 0,
+      "createdAt": "2025-08-16T00:19:47.463Z",
+      "modifiedAt": "2025-08-16T00:19:47.463Z"
+    },
+    {
+      "id": "O3s-uG-aG",
+      "uuid": "1ef30981-579b-459f-9688-144e06887e48",
+      "firstName": "Carolina",
+      "lastName": "Sampaio",
+      "username": "Carolina",
+      "password": "$2a$10$kZCif2FZMbSg1XyYxfKrwOIWBlk4QCvAzfLFzsUJ.jnLLSb0XHGOa",
+      "balance": 0,
+      "createdAt": "2025-08-16T00:24:39.034Z",
+      "modifiedAt": "2025-08-16T00:24:39.034Z"
+    },
+    {
+      "id": "jR8nN6Yqk",
+      "uuid": "6ae84ee4-6e5f-4126-90af-b220db198ea6",
+      "firstName": "Carolina",
+      "lastName": "Sampaio",
+      "username": "Carolina",
+      "password": "$2a$10$.d0vycu7XTedQdlXFQrdbO12zo/4rhQ5J/Yu2mWT1xnxI9XwoKlTm",
+      "balance": 0,
+      "createdAt": "2025-08-16T00:25:54.911Z",
+      "modifiedAt": "2025-08-16T00:25:54.911Z"
     }
   ],
   "contacts": [
